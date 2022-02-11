@@ -45,3 +45,6 @@ Geth 맘춤 다운로드
 -    = 이더단위변환 웨이를 이더로 이더를 웨이로 웨이금액을 특정단위로 변환할 수 있습니다.
 - var latestBlockNum = eth.blockNumber
 - eth.getTransactionFromBlock(latestBlockNum, 0) = 제일 첫번째블록을 가져올수 있다.
+
+5화 Ethereum Blog Check or resson
+
