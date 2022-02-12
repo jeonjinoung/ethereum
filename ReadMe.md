@@ -48,3 +48,4 @@ Geth 맘춤 다운로드
 
 5화 Ethereum Blog Check or resson
 
+주말 공부 크립토좀비 예습 및 복습
