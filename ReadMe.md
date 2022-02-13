@@ -49,3 +49,5 @@ Geth 맘춤 다운로드
 5화 Ethereum Blog Check or resson
 
 주말 공부 크립토좀비 예습 및 복습
+22.02.13
+오늘은 ethereum을 좀더 잘써보자
